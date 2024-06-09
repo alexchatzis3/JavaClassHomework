@@ -3,7 +3,7 @@ package gr.aueb.cf.ch12;
 import gr.aueb.cf.ch12.model.User;
 import gr.aueb.cf.ch12.model.UserCredentials;
 
-public class Main {
+public class PointXYZMain {
 
     public static void main(String[] args) {
         User user = new User(120030104, "Alex", "Chatzis");
