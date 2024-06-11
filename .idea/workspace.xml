@@ -4,30 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9695f22-def8-401f-abf2-c572272fcc82" name="Changes" comment="" />
+    <list default="true" id="d9695f22-def8-401f-abf2-c572272fcc82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/MathHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/QueueManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/StackManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/ValidationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2h40QZM22hjofs0qV1JMSUUzLYy" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Logger.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathHelper.executor": "Run",
+    "Application.StackManager.executor": "Run",
+    "Application.StringUtils.executor": "Run",
+    "Application.ValidationUtils.executor": "Run",
+    "Application.gr.aueb.cf.ch13.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch13.bankapp.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chatz/IdeaProjects/Homework/src/gr/aueb/cf",
+    "last_opened_file_path": "C:/Users/chatz/IdeaProjects/Testbed",
     "onboarding.tips.debug.path": "C:/Users/chatz/IdeaProjects/Homework/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -36,6 +62,82 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chatz\IdeaProjects\Homework\src\gr\aueb\cf" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.StackManager">
+    <configuration name="Logger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.Logger" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.MathHelper" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.StackManager" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.StringUtils" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.ValidationUtils" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackManager" />
+        <item itemvalue="Application.ValidationUtils" />
+        <item itemvalue="Application.StringUtils" />
+        <item itemvalue="Application.MathHelper" />
+        <item itemvalue="Application.Logger" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
